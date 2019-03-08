@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试</title>
+    <script>
+        function writeComment(_id) {
+            document.getElementById(_id).innerHTML= '文本已被修改';
+        }
+    </script>
+</head>
+<body>
+<h1>我的第一个标题</h1>
+<!-- 使用 innerHTML 写入到 HTML 元素 -->
+<p id="demo" style="color: red;">将要被修改的段落</p>
+
+<button type="button" onclick="writeComment(_id='demo')">点击修改段落</button>
+</body>
+</html>
