@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a527473-4929-4dbc-90c8-5d7d0925b4c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/4-JavaScript 语句.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/5-JavaScript 注释.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/6-JavaScript 变量.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,14 +47,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/学习实例/引用外部 js 实例/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="338">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6-JavaScript 变量.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/6-JavaScript 变量.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="507">
+                <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -92,15 +103,6 @@
                 <caret line="7" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="window_alert.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/学习实例/JavaScript 输出/window_alert.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -160,6 +162,7 @@
         <option value="$PROJECT_DIR$/docs/4-JavaScript 语句.md" />
         <option value="$PROJECT_DIR$/docs/JavaScript 注释.md" />
         <option value="$PROJECT_DIR$/学习实例/引用外部 js 实例/myScript.js" />
+        <option value="$PROJECT_DIR$/docs/6-JavaScript 变量.md" />
       </list>
     </option>
   </component>
@@ -493,11 +496,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/学习实例/引用外部 js 实例/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="338">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/6-JavaScript 变量.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="507">
+            <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
