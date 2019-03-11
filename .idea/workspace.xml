@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a527473-4929-4dbc-90c8-5d7d0925b4c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/10-JavaScript 事件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,18 +27,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaScript 输出.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/学习实例/JavaScript 输出/JavaScript 输出.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="182">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -115,17 +103,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10-JavaScript 事件.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10-JavaScript 事件.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/10-JavaScript 事件.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
+              <first_editor relative-caret-position="780">
                 <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11-JavaScript 字符串.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/11-JavaScript 字符串.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="582">
+                <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+                <folding>
                   <element signature="n#!!doc" expanded="true" />
                 </folding>
               </first_editor>
@@ -172,6 +175,7 @@
         <option value="$PROJECT_DIR$/docs/8-JavaScript 函数.md" />
         <option value="$PROJECT_DIR$/docs/9-JavaScript 作用域.md" />
         <option value="$PROJECT_DIR$/docs/10-JavaScript 事件.md" />
+        <option value="$PROJECT_DIR$/docs/11-JavaScript 字符串.md" />
       </list>
     </option>
   </component>
@@ -288,8 +292,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22666667" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15689866" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15689866" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -739,13 +743,26 @@
     <entry file="file://$PROJECT_DIR$/docs/10-JavaScript 事件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
+          <first_editor relative-caret-position="780">
             <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/11-JavaScript 字符串.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="582">
+            <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            <folding>
               <element signature="n#!!doc" expanded="true" />
             </folding>
           </first_editor>
