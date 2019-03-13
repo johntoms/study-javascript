@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a527473-4929-4dbc-90c8-5d7d0925b4c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/12-JavaScript 运算符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/14-JavaScript 条件语句.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,38 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/学习实例/引用外部 js 实例/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7-JavaScript 数据类型.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/7-JavaScript 数据类型.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="536">
-                <caret line="166" selection-start-line="166" selection-end-line="166" />
-                <folding>
-                  <element signature="n#!!doc" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="8-JavaScript 函数.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/8-JavaScript 函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
+              <first_editor relative-caret-position="2886">
                 <caret line="111" column="34" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
               </first_editor>
               <second_editor />
@@ -87,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/docs/9-JavaScript 作用域.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="547">
+              <first_editor relative-caret-position="1716">
                 <caret line="66" selection-start-line="66" selection-end-line="66" />
               </first_editor>
               <second_editor />
@@ -99,15 +72,8 @@
         <entry file="file://$PROJECT_DIR$/docs/10-JavaScript 事件.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="780">
+              <first_editor relative-caret-position="884">
                 <caret line="34" selection-start-line="34" selection-end-line="34" />
-                <folding>
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -120,21 +86,42 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="3250">
                 <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-                <folding>
-                  <element signature="n#!!doc" expanded="true" />
-                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12-JavaScript 运算符.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12-JavaScript 运算符.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/12-JavaScript 运算符.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <first_editor relative-caret-position="78">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13-JavaScript 比较 和 逻辑运算符.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/13-JavaScript 比较 和 逻辑运算符.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1">
+                <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14-JavaScript 条件语句.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/14-JavaScript 条件语句.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="599">
+                <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -181,6 +168,8 @@
         <option value="$PROJECT_DIR$/docs/10-JavaScript 事件.md" />
         <option value="$PROJECT_DIR$/docs/11-JavaScript 字符串.md" />
         <option value="$PROJECT_DIR$/docs/12-JavaScript 运算符.md" />
+        <option value="$PROJECT_DIR$/docs/13-JavaScript 比较 和 逻辑运算符.md" />
+        <option value="$PROJECT_DIR$/docs/14-JavaScript 条件语句.md" />
       </list>
     </option>
   </component>
@@ -208,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,7 +235,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,8 +286,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22666667" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15689866" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15873016" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -369,9 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -390,9 +376,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="4316">
             <caret line="166" selection-start-line="166" selection-end-line="166" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -412,9 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -449,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,9 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,9 +464,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="4316">
             <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -509,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,9 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,9 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,20 +644,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/7-JavaScript 数据类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="536">
+          <first_editor relative-caret-position="4316">
             <caret line="166" selection-start-line="166" selection-end-line="166" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -704,7 +660,7 @@
     <entry file="file://$PROJECT_DIR$/docs/8-JavaScript 函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
+          <first_editor relative-caret-position="2886">
             <caret line="111" column="34" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
           </first_editor>
           <second_editor />
@@ -738,7 +694,7 @@
     <entry file="file://$PROJECT_DIR$/docs/9-JavaScript 作用域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="547">
+          <first_editor relative-caret-position="1716">
             <caret line="66" selection-start-line="66" selection-end-line="66" />
           </first_editor>
           <second_editor />
@@ -748,15 +704,8 @@
     <entry file="file://$PROJECT_DIR$/docs/10-JavaScript 事件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="780">
+          <first_editor relative-caret-position="884">
             <caret line="34" selection-start-line="34" selection-end-line="34" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -767,9 +716,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3250">
             <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -778,8 +724,28 @@
     <entry file="file://$PROJECT_DIR$/docs/12-JavaScript 运算符.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <first_editor relative-caret-position="78">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/13-JavaScript 比较 和 逻辑运算符.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1">
+            <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/14-JavaScript 条件语句.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="599">
+            <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           </first_editor>
           <second_editor />
         </state>
