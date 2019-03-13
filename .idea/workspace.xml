@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a527473-4929-4dbc-90c8-5d7d0925b4c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/14-JavaScript 条件语句.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,18 +28,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8-JavaScript 函数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/8-JavaScript 函数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2886">
-                <caret line="111" column="34" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -116,12 +104,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14-JavaScript 条件语句.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14-JavaScript 条件语句.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/14-JavaScript 条件语句.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="599">
-                <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <first_editor relative-caret-position="547">
+                <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="104">
+                <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/docs/12-JavaScript 运算符.md" />
         <option value="$PROJECT_DIR$/docs/13-JavaScript 比较 和 逻辑运算符.md" />
         <option value="$PROJECT_DIR$/docs/14-JavaScript 条件语句.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -278,7 +279,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -286,8 +286,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22666667" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15873016" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15873016" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -310,13 +310,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/学习实例/引用外部 js 实例/myScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/学习实例/JavaScript 输出/JavaScript 输出.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -744,8 +737,18 @@
     <entry file="file://$PROJECT_DIR$/docs/14-JavaScript 条件语句.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="599">
-            <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <first_editor relative-caret-position="547">
+            <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
