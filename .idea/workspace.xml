@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a527473-4929-4dbc-90c8-5d7d0925b4c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/17-JavaScript while 循环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/18-JavaScript Break 和 Continue 语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9-JavaScript 作用域.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/9-JavaScript 作用域.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1716">
-                <caret line="66" selection-start-line="66" selection-end-line="66" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="10-JavaScript 事件.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/10-JavaScript 事件.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -125,12 +114,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17-JavaScript while 循环.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="18-JavaScript Break 和 Continue 语句.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/18-JavaScript Break 和 Continue 语句.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="651">
+                <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17-JavaScript while 循环.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/17-JavaScript while 循环.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="26">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <first_editor relative-caret-position="495">
+                <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -183,6 +193,7 @@
         <option value="$PROJECT_DIR$/docs/15-JavaScript switch 语句.md" />
         <option value="$PROJECT_DIR$/docs/16-JavaScript for 循环.md" />
         <option value="$PROJECT_DIR$/docs/17-JavaScript while 循环.md" />
+        <option value="$PROJECT_DIR$/docs/18-JavaScript Break 和 Continue 语句.md" />
       </list>
     </option>
   </component>
@@ -323,16 +334,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/5-JavaScript 注释.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/学习实例/引用外部 js 实例/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -750,6 +751,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/17-JavaScript while 循环.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/16-JavaScript for 循环.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -764,11 +779,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/17-JavaScript while 循环.md">
+    <entry file="file://$PROJECT_DIR$/docs/18-JavaScript Break 和 Continue 语句.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="26">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="651">
+            <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
